@@ -1,0 +1,6 @@
+{
+  "name": "Erasmus+ Mental Health Youth Exchange",
+  "description": "Landing page and interactive presentation for an Erasmus+ Youth Exchange program focused on youth mental health, emotional resilience, and peer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
